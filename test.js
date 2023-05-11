@@ -1,0 +1,1 @@
+WSH.Echo("hello world")
